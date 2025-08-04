@@ -83,14 +83,6 @@ To explore this project on your own machine, follow these steps:
 
 ---
 
-## 📈 Future Improvements
-
-- **Row-Level Security (RLS):** Implement RLS to restrict data visibility for different user roles (e.g., a European Sales Manager can only see European data).
-- **Performance Optimization:** Analyze query performance using DAX Studio and optimize complex measures to ensure the report remains fast and responsive.
-- **"What-If" Analysis:** Add a page with "What-if" parameters to allow users to forecast sales based on different assumptions (e.g., a 10% increase in bike sales).
-
----
-
 ## 👤 Contact
 
 Muhammad Tahir - [LinkedIn](https://www.linkedin.com/in/muhammad-tahir-data/)
