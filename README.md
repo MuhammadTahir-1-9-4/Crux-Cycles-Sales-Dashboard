@@ -74,7 +74,7 @@ To explore this project on your own machine, follow these steps:
 
 3.  **Open the file:**
 
-    - Navigate to the project directory and open the **`Crux Cycles Sales Analysis.pbix`** file with Power BI Desktop.
+    - Navigate to the project directory and open the **`Crux_Cycles_Sales_Analysis.pbix`** file with Power BI Desktop.
 
 4.  **Update Data Source Paths (If Necessary):**
     - Since the original data sources are local, Power BI may show an error.
